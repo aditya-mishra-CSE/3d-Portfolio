@@ -267,7 +267,7 @@ import {
       ],
       image: StudyNotion,
       source_code_link: "https://github.com/aditya-mishra-CSE/StudyNotion---Ed-Tech",
-      website_link: "{https://study-notion-ed-tech-aditya.vercel.app/",
+      website_link: "https://study-notion-ed-tech-aditya.vercel.app/",
     },
     {
       name: "Razorpay Clone",
